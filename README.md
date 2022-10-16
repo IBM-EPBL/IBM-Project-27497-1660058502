@@ -1,5 +1,18 @@
 # IBM-Project-27497-1660058502
 # A Gesture-Based Tool For Sterile Browsing Of Radiology Images
+## **TEAM:**
+
+ Team ID:PNT2022TMID28589
+ 
+ Team Leader : ADHITYA VARMAN V - 312819205003
+
+ Team Member : KRISHNA G - 312819205015
+
+ Team Member : MOHANA SUNDRAM V - 312819205022
+
+ Team Member : VAIBHAV U - 312819205045
+
+
 ## Project Objectives
   Know fundamental concepts and techniques of Convolutional Neural Network.
   
