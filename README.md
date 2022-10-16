@@ -71,3 +71,20 @@
      - Create an HTML file
 
      - Build Python Code
+
+# Project Structure
+
+ Project folder which contains files as shown below
+ 
+ ![image](https://user-images.githubusercontent.com/100921448/196021817-7c4bf53a-ce43-49a8-96e4-1a5bf6cc0b3f.png)
+
+
+   - Dataset folder contains the training and testing images for training our model.
+
+   - We are building a Flask Application which needs  HTML pages stored in the templates folder and a python script app.py for server side scripting
+
+   - We need the model which is saved and the saved model in this content is gesture.h5
+
+   - The static folder will contain js and css files.
+
+   - Whenever we upload a image to predict, that images is saved in uploads folder.
