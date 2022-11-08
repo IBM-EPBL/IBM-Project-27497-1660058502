@@ -36,11 +36,11 @@
  
  ###### To accomplish this, we have to complete all the activities and tasks listed below :-
 
- - Data Collection.
+ - Data Collection :
 
    - Collect the dataset or Create the dataset
 
- - Data Preprocessing.
+ - Data Preprocessing :
 
     - Import the ImageDataGenerator library
 
