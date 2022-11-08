@@ -102,7 +102,7 @@
 
   - Type “pip install opencv-python”
 
-  - Type “pip install flask”.
+  - Type “pip install flask".
 
 ## Technical Architecture:
 
