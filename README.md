@@ -48,7 +48,7 @@
 
     - Apply ImageDataGenerator functionality to Trainset and Testset
 
-- Model Building
+- Model Building :
 
     - Import the model building Libraries
 
@@ -66,7 +66,7 @@
 
     - Save the Model
 
-- Application Building
+- Application Building :
 
      - Create an HTML file
 
