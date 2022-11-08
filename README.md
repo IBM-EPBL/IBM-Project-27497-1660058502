@@ -19,7 +19,7 @@
    - In this project Gesture based Desktop automation ,First the model is trained pre trained on the images of different hand gestures, such as a showing numbers with fingers as 1 ,2,3,4 . This model uses the integrated webcam to capture the video frame. The image of the gesture captured in the video frame is compared with  the Pre-trained model and the gesture is identified. If the gesture predictes is 1 then images is blurred;2, image is resized;3,image is rotated etc.
 
 
-## Project Objectives
+## Project Objectives 
   Know fundamental concepts and techniques of Convolutional Neural Network.
   
   Gain a broad understanding of image data.
@@ -72,7 +72,7 @@
 
      - Build Python Code
 
-# Project Structure
+# Project Structure :
 
  Project folder which contains files as shown below
  
