@@ -1,4 +1,4 @@
-# IBM-Project - 27497 -1660058502
+# IBM-Project - 27497 - 1660058502
 # **A Gesture-Based Tool For Sterile Browsing Of Radiology Images**
 ## **TEAM:**
 
