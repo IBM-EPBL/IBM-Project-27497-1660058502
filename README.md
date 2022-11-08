@@ -2,7 +2,7 @@
 # A Gesture-Based Tool For Sterile Browsing Of Radiology Images
 ## **TEAM:**
 
- Team ID:PNT2022TMID28589
+ Team ID: PNT2022TMID28589
  
  Team Leader : ADHITYA VARMAN V - 312819205003
 
