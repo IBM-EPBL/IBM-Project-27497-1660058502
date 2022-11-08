@@ -89,7 +89,7 @@
 
    - Whenever we upload a image to predict, that images is saved in uploads folder.
 
-# Prerequisites:
+# Prerequisites :
 
 ## Anaconda Navigator:
 
