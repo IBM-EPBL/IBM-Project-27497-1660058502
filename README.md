@@ -104,6 +104,6 @@
 
   - Type “pip install flask".
 
-## Technical :
+## Technical Architecture:
 
 ![image](https://user-images.githubusercontent.com/100921448/196022303-129fc359-0d5c-451f-953a-b7e71004a709.png)
