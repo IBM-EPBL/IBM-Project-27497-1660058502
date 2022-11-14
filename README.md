@@ -76,7 +76,7 @@
 
  Project folder which contains files as shown below
  
- ![image](https://user-images.githubusercontent.com/100921448/196021817-7c4bf53a-ce43-49a8-96e4-1a5bf6cc0b3f.png)
+ ![image](https://user-images.githubusercontent.com/100921448/201666828-104523cc-1abe-4df6-948b-622e6995545e.png)
 
 
    - Dataset folder contains the training and testing images for training our model.
